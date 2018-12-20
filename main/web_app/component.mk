@@ -1,0 +1,1 @@
+COMPONENT_SRCDIRS := httpmg_server wifi_station

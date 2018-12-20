@@ -1,0 +1,1 @@
+COMPONENT_SRCDIRS := gap_level gatt_level .
